@@ -1,2 +1,2 @@
 # VKdemo
-MY first REPO
+MY first GIT REPO
